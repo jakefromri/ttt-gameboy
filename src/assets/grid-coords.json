@@ -1,0 +1,11 @@
+{
+  "_comment": "9x9 grid overlay coordinates as % of the character-clean.png hero image. auto-detect was noisy on the right edge; these are hand-tuned starting points. a dev overlay in the UI lets us nudge them live.",
+  "image_width": 1600,
+  "image_height": 2235,
+  "grid": {
+    "left_pct": 0.175,
+    "top_pct": 0.265,
+    "right_pct": 0.765,
+    "bottom_pct": 0.715
+  }
+}

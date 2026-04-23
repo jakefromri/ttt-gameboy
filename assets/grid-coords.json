@@ -1,0 +1,11 @@
+{
+  "_comment": "9x9 grid overlay bounds as % of character.png. Hand-tuned by iterating visual overlays; v5 had clean alignment with Asher's drawn grid (top just below the red stripe, bottom just above the control panel). The interactive grid renders ON TOP of the drawn one — exact alignment with his pencil lines isn't critical since clicks register on our digital grid and the drawing is frame/decoration.",
+  "image_width": 1600,
+  "image_height": 2235,
+  "grid": {
+    "left_pct": 0.140,
+    "top_pct": 0.265,
+    "right_pct": 0.858,
+    "bottom_pct": 0.745
+  }
+}
